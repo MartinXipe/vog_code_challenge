@@ -1,0 +1,13 @@
+C:\Users\MartinLD\source\repos\martin_lachica_vog_backend_codechalleneg\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MartinLD\source\repos\martin_lachica_vog_backend_codechalleneg\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.AssemblyInfoInputs.cache
+C:\Users\MartinLD\source\repos\martin_lachica_vog_backend_codechalleneg\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.AssemblyInfo.cs
+C:\Users\MartinLD\source\repos\martin_lachica_vog_backend_codechalleneg\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\MartinLD\source\repos\martin_lachica_vog_backend_codechalleneg\ConsoleProject\bin\Debug\netcoreapp3.1\ConsoleProject.exe
+C:\Users\MartinLD\source\repos\martin_lachica_vog_backend_codechalleneg\ConsoleProject\bin\Debug\netcoreapp3.1\ConsoleProject.deps.json
+C:\Users\MartinLD\source\repos\martin_lachica_vog_backend_codechalleneg\ConsoleProject\bin\Debug\netcoreapp3.1\ConsoleProject.runtimeconfig.json
+C:\Users\MartinLD\source\repos\martin_lachica_vog_backend_codechalleneg\ConsoleProject\bin\Debug\netcoreapp3.1\ConsoleProject.runtimeconfig.dev.json
+C:\Users\MartinLD\source\repos\martin_lachica_vog_backend_codechalleneg\ConsoleProject\bin\Debug\netcoreapp3.1\ConsoleProject.dll
+C:\Users\MartinLD\source\repos\martin_lachica_vog_backend_codechalleneg\ConsoleProject\bin\Debug\netcoreapp3.1\ConsoleProject.pdb
+C:\Users\MartinLD\source\repos\martin_lachica_vog_backend_codechalleneg\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.dll
+C:\Users\MartinLD\source\repos\martin_lachica_vog_backend_codechalleneg\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.pdb
+C:\Users\MartinLD\source\repos\martin_lachica_vog_backend_codechalleneg\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.genruntimeconfig.cache
