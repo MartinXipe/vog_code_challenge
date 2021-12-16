@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "sktBhzCn8k4m69JT5rol2a91kfqWw8YXBLWcR1T35/nC3zCH/yfgp0I/ZaiHMeExWFxUoMeHpobCVVxu8mYkxA==",
+  "dgSpecHash": "2p6vFMSzloR5ma2ZD24quTr3QSUujkLBFUl+/MEY1RrRYZ1T6fCocWqtMu9EGwqiUmuQo8w1q2T01cAfu1HWCA==",
   "success": true,
   "projectFilePath": "C:\\Users\\MartinLD\\source\\repos\\martin_lachica_vog_backend_codechalleneg\\VogCodeChallenge.API\\VogCodeChallenge.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\MartinLD\\.nuget\\packages\\bogus\\34.0.1\\bogus.34.0.1.nupkg.sha512",
     "C:\\Users\\MartinLD\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\MartinLD\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\MartinLD\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.22\\microsoft.entityframeworkcore.3.1.22.nupkg.sha512",
