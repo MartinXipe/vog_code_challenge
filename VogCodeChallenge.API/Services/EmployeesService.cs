@@ -11,6 +11,9 @@ namespace VogCodeChallenge.API.Services
     {
         public IEnumerable<Employee> GetAll()
         {
+            //when we need to change the in memory implementation to the database implementation, we need to change this code and replace it with the data context queries.
+            //example of the query that whould replace this code.
+            //List<Employee> employes = _db.Employees.ToList():
             IEnumerable<Employee> employees = Enumerable.Empty<Employee>();
             var random = new Random();
             List<Department> departments = GenerateDepartments();
@@ -29,6 +32,10 @@ namespace VogCodeChallenge.API.Services
 
         public IList<Employee> ListAll()
         {
+
+            //when we need to change the in memory implementation to the database implementation, we need to change this code and replace it with the data context queries.
+            //example of the query that whould replace this code.
+            
             IList<Employee> employees = new List<Employee>();
             var random = new Random();
             List<Department> departments = GenerateDepartments();

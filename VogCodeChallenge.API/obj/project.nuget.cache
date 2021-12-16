@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2p6vFMSzloR5ma2ZD24quTr3QSUujkLBFUl+/MEY1RrRYZ1T6fCocWqtMu9EGwqiUmuQo8w1q2T01cAfu1HWCA==",
+  "dgSpecHash": "42QWLhtrEAsWksi+ixYakYtMRlNRUkBCX9XHlLbP2ujT0pMoFCayKhKXKyhyYCDRt7wvEKBR2yUASNlzsapwVA==",
   "success": true,
   "projectFilePath": "C:\\Users\\MartinLD\\source\\repos\\martin_lachica_vog_backend_codechalleneg\\VogCodeChallenge.API\\VogCodeChallenge.API.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\MartinLD\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.22\\microsoft.entityframeworkcore.3.1.22.nupkg.sha512",
     "C:\\Users\\MartinLD\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.22\\microsoft.entityframeworkcore.abstractions.3.1.22.nupkg.sha512",
     "C:\\Users\\MartinLD\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.22\\microsoft.entityframeworkcore.analyzers.3.1.22.nupkg.sha512",
+    "C:\\Users\\MartinLD\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\3.1.5\\microsoft.entityframeworkcore.inmemory.3.1.5.nupkg.sha512",
     "C:\\Users\\MartinLD\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.22\\microsoft.extensions.caching.abstractions.3.1.22.nupkg.sha512",
     "C:\\Users\\MartinLD\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.22\\microsoft.extensions.caching.memory.3.1.22.nupkg.sha512",
     "C:\\Users\\MartinLD\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.22\\microsoft.extensions.configuration.3.1.22.nupkg.sha512",
