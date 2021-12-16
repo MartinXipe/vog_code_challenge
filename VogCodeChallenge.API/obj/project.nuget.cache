@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LMq/Cj05iWHmE3dM2oeiZDWDYh+ZgjO5E9d+LPc6rY25wwcfBwjfQyTShd4U/7IKj/bxFrAa2OqtHSD4tP4Chg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MartinLD\\source\\repos\\martin_lachica_vog_backend_codechalleneg\\VogCodeChallenge.API\\VogCodeChallenge.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MartinLD\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
