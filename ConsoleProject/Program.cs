@@ -6,7 +6,7 @@ namespace ConsoleProject
     {
         static void Main(string[] args)
         {
-            QuestionClass.GetNames();
+            Console.WriteLine(QuestionClass.TESTModule(5));
         }
     }
 }

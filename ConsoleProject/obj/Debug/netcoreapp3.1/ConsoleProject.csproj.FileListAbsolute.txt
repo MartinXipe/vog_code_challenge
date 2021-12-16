@@ -11,3 +11,4 @@ C:\Users\MartinLD\source\repos\martin_lachica_vog_backend_codechalleneg\ConsoleP
 C:\Users\MartinLD\source\repos\martin_lachica_vog_backend_codechalleneg\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.dll
 C:\Users\MartinLD\source\repos\martin_lachica_vog_backend_codechalleneg\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.pdb
 C:\Users\MartinLD\source\repos\martin_lachica_vog_backend_codechalleneg\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.genruntimeconfig.cache
+C:\Users\MartinLD\source\repos\martin_lachica_vog_backend_codechalleneg\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.csproj.AssemblyReference.cache
